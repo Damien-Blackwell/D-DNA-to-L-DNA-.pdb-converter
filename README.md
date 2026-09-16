@@ -6,7 +6,7 @@ creators: Damien Blackwell @Damien-Blackwell-personal/GITHUB
 --------------------------------------------LISCENSE-------------------------------------------------------------
 #                                                                                                            
 #
--                                                            the author of this script will not be held responsible for distribution or any usages of the granted script. 
+--                                                            the author of this script will not be held responsible for distribution or any usages of the granted script. 
 #
 #
 #
