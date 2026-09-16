@@ -11,7 +11,7 @@ creators: Damien Blackwell @Damien-Blackwell-personal/GITHUB
 #
 #
 
-###                                                                     this file was written by Damien-Blackwell at Damien-Blackwell-personal on GITHUB
+###                                                                           this file was written by Damien-Blackwell at Damien-Blackwell on GITHUB
 
 #
 #
